@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Các tag phổ biến</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        .tag {
+            display: inline-block;
+            padding: 10px;
+            margin: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Các tag phổ biến</h1>
+    <div class="tags">
+        <div class="tag" style="background-color: yellowgreen">html</div>
+        <div class="tag"style="background-color: yellowgreen">CSS</div>
+        <div class="tag"style="background-color: yellowgreen">JavaScript</div>
+        <div class="tag"style="background-color: yellowgreen">jQuery</div>
+        <div class="tag"style="background-color: yellowgreen">Web design</div>
+        <div class="tag"style="background-color: yellowgreen">Django</div>
+        <div class="tag"style="background-color: yellowgreen">Python</div>
+        <div class="tag"style="background-color: yellowgreen">Machine learning</div>
+        <div class="tag"style="background-color: yellowgreen">Data science</div>
+    </div>
+</body>
+</html>

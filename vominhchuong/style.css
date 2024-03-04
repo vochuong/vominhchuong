@@ -1,0 +1,62 @@
+.container {
+    background-image: url(./img/universe.webp);
+    background-size: cover;
+    padding: 100px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container .item {
+    text-align: center;
+}
+
+.container .item i {
+    font-size: 60px;
+    color: red;
+}
+
+.container .item p#quantity {
+    font-size: 70px;
+    color: white;
+}
+
+.container .item p.content {
+    color: yellow;
+    font-size: 40px;
+}
+
+body {
+    width: 100%;
+    margin: 0;
+}
+
+.container {
+    padding: 200px;
+    background-image: url(https://cdn.glitch.global/1e842fa9-bbeb-4947-b0b9-c2cafd29a018/coffee.webp?v=1709547264185);
+    text-align: center;
+}
+
+.container h1 {
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.container p {
+    color: white;
+    font-size: 30px;
+}
+
+.container button {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: white;
+    padding: 25px 15px;
+    background-color: red;
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
